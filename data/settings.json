@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"token":"Nzk0MDc5NDgxMjU3Nzg3Mzkz.X-1mJQ.hQshehkVj-vYVUUSRQ3AeXxavL0","client":"794079481257787393","tag":".","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"libsodium-wrappers":["",false],"opusscript":["",true],"ytdl-core":["",true],"discord-player":["",true]},"ownerId":"757690509098483775"}
-=======
-{"token":"<REDACTED>","client":"794079481257787393","tag":".","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"libsodium-wrappers":["",false],"opusscript":["",true],"ytdl-core":["",true],"discord-player":["",true]},"ownerId":"757690509098483775"}
->>>>>>> main
